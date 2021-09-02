@@ -8,15 +8,16 @@ assetsSummary:
   numberOfBytes: 0
   numberOfFiles: 0
   schemaKey: AssetsSummary
-citation: Pei, Felix (2021) Macaque primary motor and dorsal premotor cortex spiking
-  activity during delayed reaching (Version draft) [Data set]. DANDI archive. https://dandiarchive.org/dandiset/000128/draft
+citation: Macaque primary motor and dorsal premotor cortex spiking activity during
+  delayed reaching (2021). (Version draft) [Data set]. DANDI archive. https://dandiarchive.org/dandiset/000128/draft
 contributor:
 - affiliation: []
   email: felp8484@gmail.com
-  includeInCitation: true
+  includeInCitation: false
   name: Pei, Felix
   roleName:
   - dcite:ContactPerson
+  - dcite:Maintainer
   schemaKey: Person
 dateCreated: '2021-08-21T19:26:10.452709+00:00'
 description: This dataset contains sorted unit spiking times and behavioral data from
