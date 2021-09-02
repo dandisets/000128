@@ -5,14 +5,11 @@
 about:
 - identifier: UBERON:0001384
   name: Primary motor cortex
-  schemaKey: Anatomy
 - identifier: UBERON:0016634
   name: Premotor cortex
-  schemaKey: Anatomy
 access:
 - contactPoint:
     schemaKey: ContactPoint
-  schemaKey: AccessRequirements
   status: dandi:OpenAccess
 assetsSummary:
   approach:
@@ -38,9 +35,9 @@ assetsSummary:
   variableMeasured:
   - Units
   - ProcessingModule
-citation: Churchland, Mark; Kaufman, Matthew (2021) Macaque primary motor and dorsal
-  premotor cortex spiking activity during delayed reaching (Version draft) [Data set].
-  DANDI archive. https://dandiarchive.org/dandiset/000128/draft
+citation: 'Churchland, Mark; Kaufman, Matthew (2021) MC_Maze: macaque primary motor
+  and dorsal premotor cortex spiking activity during delayed reaching (Version draft)
+  [Data set]. DANDI archive. https://dandiarchive.org/dandiset/000128/draft'
 contributor:
 - affiliation: []
   email: felp8484@gmail.com
@@ -91,12 +88,13 @@ id: DANDI:000128/draft
 identifier: DANDI:000128
 keywords:
 - Neural Latents Benchmark
+- NLB
 license:
 - spdx:CC-BY-4.0
 manifestLocation:
 - https://api.dandiarchive.org/api/dandisets/000128/versions/draft/assets/
-name: Macaque primary motor and dorsal premotor cortex spiking activity during delayed
-  reaching
+name: 'MC_Maze: macaque primary motor and dorsal premotor cortex spiking activity
+  during delayed reaching'
 protocol: []
 relatedResource:
 - identifier: 10.1016/j.neuron.2010.09.015
@@ -104,13 +102,11 @@ relatedResource:
     a dynamical machine?'
   relation: dcite:IsDescribedBy
   repository: Neuron
-  schemaKey: Resource
   url: https://doi.org/10.1016/j.neuron.2010.09.015
 - identifier: 10.1038/nature11129
   name: Neural population dynamics during reaching
   relation: dcite:IsDescribedBy
   repository: Nature
-  schemaKey: Resource
   url: https://doi.org/10.1038/nature11129
 repository: https://dandiarchive.org/
 schemaKey: Dandiset
