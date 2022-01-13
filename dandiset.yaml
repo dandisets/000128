@@ -38,7 +38,7 @@ assetsSummary:
   variableMeasured:
   - Units
   - ProcessingModule
-citation: 'Churchland, Mark; Kaufman, Matthew (2021) MC_Maze: macaque primary motor
+citation: 'Churchland, Mark; Kaufman, Matthew (2022) MC_Maze: macaque primary motor
   and dorsal premotor cortex spiking activity during delayed reaching (Version draft)
   [Data set]. DANDI archive. https://dandiarchive.org/dandiset/000128/draft'
 contributor:
@@ -79,13 +79,14 @@ contributor:
   - dcite:DataCollector
   schemaKey: Person
 dateCreated: '2021-08-21T19:26:10.452709+00:00'
-description: This dataset contains sorted unit spiking times and behavioral data from
-  a macaque performing a delayed reaching task. The experimental task was a center-out
+description: 'This dataset contains sorted unit spiking times and behavioral data
+  from a macaque performing a delayed reaching task. The experimental task was a center-out
   reaching task with obstructing barriers forming a maze, resulting in a variety of
   straight and curved reaches. Neural activity was recorded from electrode arrays
   implanted in the motor cortex (M1) and dorsal premotor cortex (PMd). Cursor position,
   hand position, and eye position were also recorded during the experiment, and hand
-  velocity was calculated offline from hand position.
+  velocity was calculated offline from hand position. Provided as part of the Neural
+  Latents Benchmark: https://neurallatents.github.io.'
 ethicsApproval: []
 id: DANDI:000128/draft
 identifier: DANDI:000128
